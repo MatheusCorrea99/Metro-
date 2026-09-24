@@ -1,8 +1,8 @@
-# MetrôBot SP 2.0 (Linhas 1, 2 e 3)
+# Metro connect 2.0 (Linhas 1, 2 e 3)
 🚇 MetrôBot SP 2.0
 Disciplina: Inteligência Artificial e Machine Learning
 
-Integrantes: Daniel Santiago, Eduardo Carotenuto, Everton Tiburcio, Fauzer Ribeiro e Matheus Diorio
+Integrantes: Matheus Correa, Rogens Brasileiro, Arthur Weber
 
 Status: Projeto Acadêmico / Concluído
 
