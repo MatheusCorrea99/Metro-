@@ -1,4 +1,4 @@
-# Metro-
+# MetrôBot SP 2.0 (Linhas 1, 2 e 3)
 🚇 MetrôBot SP 2.0
 Disciplina: Inteligência Artificial e Machine Learning
 
